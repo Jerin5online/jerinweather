@@ -1,0 +1,73 @@
+.c1{
+    background-color: transparent;
+    border: 0px rgb(220, 220, 220) solid;
+    height: 320px;
+    width: 200px;
+    border-radius: 5px;
+    color: white;
+}
+#sLocation{
+    width: 500px;
+    height: 40px;
+    /* opacity: 0.1; */
+    background-color: transparent;
+    color: white;
+}
+
+
+#sButton{
+height: 40px;
+width: 45px;
+    margin-left: -50px;
+    background-color: transparent;
+}
+#lButton{
+    width: 500px;
+    height: 40px;
+    color: white;
+    margin-top: 100px;
+    margin-left: -100px;
+}
+
+.t1{
+    margin-top: 150px;
+}
+
+    .c{
+        margin-top: 100px;
+        
+        color: white;
+    
+    }
+    body{
+        background-size: cover;
+    }
+
+
+
+    @media(max-width:450px){
+
+        #sLocation{
+          width: 450px;
+            margin-right: 120px;
+        }
+        
+        #b1{
+            margin-top: -56px ;
+            margin-left: 500px;
+        }
+        #lButton{
+            margin-top: -300px;
+            margin-left: 50px ;
+        }
+#h1{
+    margin-left: 150px;
+}
+
+.ca1{
+    margin-top: -230px;
+    margin-left: 230px;
+    font-size: x-small;
+}
+        
+    }
